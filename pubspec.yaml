@@ -43,6 +43,12 @@ dependencies:
   cached_network_image: ^3.2.0  # For efficient image loading
   lottie: ^3.2.0
   carousel_slider: ^5.0.0
+  flutter_launcher_icons: ^0.12.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "asset/5f1c1df569d560d2595d2900ae8090e1.png"  
 
 dev_dependencies:
   flutter_test:
